@@ -1,0 +1,6 @@
+framework module Pods_wewash_development {
+  umbrella header "Pods-wewash-development-umbrella.h"
+
+  export *
+  module * { export * }
+}
